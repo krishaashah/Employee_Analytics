@@ -12,4 +12,5 @@ This HR analytics project aims to develop a data-driven framework for optimizing
 2.Breakdown of 16.71% attrition rate, analyzing attrition by education, age group, salary and job role, identifying key areas to lower attrition rate.
 
 3.Job Satisfaction based on job role, job satisfaction and sum of attrition count.
+
 Technologies Used: Power BI for data visualization, incorporating basic DAX functions and custom visuals to deliver an intuitive and informative dashboard.
